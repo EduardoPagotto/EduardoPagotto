@@ -1,10 +1,9 @@
 ![](https://www.nasa.gov/sites/default/files/styles/ubernode_alt_horiz/public/thumbnails/image/wispr_inner_neowise_20200705t020949e_thumb.jpg)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EduardoPagotto)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EduardoPagotto&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 Currently working as c/c++/python developer
 - 📫 How to reach me: skype eduardo_pagotto
-
 
 
 <!--
