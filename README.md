@@ -3,8 +3,8 @@
 ## Hello. I'm Eduardo Pagotto. 👋
 
 ### 🔭 Currently working with: C++, Python, Java.
-### 🌱 I’m currently learning: Golang, Rust, RISC-V.
-### ⚡ Fun fact: I love old school 8 bit's Assembler code (_Yes. I like to suffer_ 😄).
+### 🌱 I’m currently learning: Rust, RISC-V.
+### ⚡ Fun fact: I love old school 8 bit's Assembler.
 
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/eduardo-pagotto-ba741a21/" target="_blank">
